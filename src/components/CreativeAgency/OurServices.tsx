@@ -9,10 +9,11 @@ const OurServices: React.FC = () => {
       <div className="overview-area overflow-hidden ptb-100 pt-0">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Our Services</span>
-            <h2>Empowering Your Business with Cutting-Edge Solutions</h2>
+            <span className="sub-title">हमारी सेवाएं</span>
+            <h2>आपके व्यवसाय को सशक्त बनाना</h2>
             <p>
-              At Softechinfra, we deliver real innovation and foster positive customer experiences at every step. No gimmicks, just genuine solutions tailored to your needs.
+            लाइफ सेवियर फाउंडेशन में, हम वास्तविक नवाचार प्रदान करते हैं और हर कदम पर सकारात्मक ग्राहक अनुभव को बढ़ावा देते हैं। 
+            कोई दिखावा नहीं, केवल आपकी आवश्यकताओं के अनुसार सच्चे समाधान।
             </p>
           </div>
 
@@ -20,27 +21,28 @@ const OurServices: React.FC = () => {
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
-                <span className="sub-title">Digital Marketing</span>
-                <h2>Unlocking Creative Solutions for Outstanding Results</h2>
+                <span className="sub-title">डिजिटल मार्केटिंग</span>
+                <h2>उत्कृष्ट परिणामों के लिए रचनात्मक समाधान खोलना</h2>
                 <p>
-                  Our approach to digital marketing is centered around meaningful brand interactions, driving real results and enhancing customer experiences.
+                हमारे डिजिटल मार्केटिंग दृष्टिकोण का केंद्र बिंदु सार्थक ब्रांड इंटरैक्शन है, जो वास्तविक परिणाम लाता है और ग्राहक अनुभव को बढ़ाता है।
+
                 </p>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Strategic Planning
+                    <i className="flaticon-tick"></i> रणनीतिक योजना
                   </h4>
                   <p>
-                    We focus on core development, ensuring that every solution aligns with your business objectives.
+                  हम मौलिक विकास पर ध्यान केंद्रित करते हैं, सुनिश्चित करते हैं कि हर समाधान आपके व्यापार लक्ष्यों के साथ संरेखित है।
                   </p>
                 </div>
 
                 <div className="features-text">
                   <h4>
-                    <i className="flaticon-tick"></i> Tailored Strategies
+                    <i className="flaticon-tick"></i> विशेष रूप से तैयार की गई रणनीतियाँ
                   </h4>
                   <p>
-                    We customize our approach to suit your unique needs, putting the customer at the forefront of every decision.
+                  हम अपने दृष्टिकोण को आपकी अद्वितीय आवश्यकताओं के अनुसार अनुकूलित करते हैं, हर निर्णय को ग्राहक को प्रमुख में रखकर।
                   </p>
                 </div>
               </div>
@@ -55,7 +57,7 @@ const OurServices: React.FC = () => {
             >
               <div className="image">
                 <Image
-                  src="/images/about-img1.png"
+                  src="/images/about-img1.jpg"
                   alt="image"
                   width={830}
                   height={750}

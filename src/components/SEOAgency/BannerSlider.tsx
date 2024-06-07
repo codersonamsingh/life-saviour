@@ -36,12 +36,11 @@ const BannerSlider: React.FC = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-6">
                       <div className="banner-content">
-                        <h1>Life Saviour Foundation: Bringing Hope and Healing</h1>
+                        <h1>लाइफ सेवियर फाउंडेशन: आशा और उपचार लाना</h1>
 
                         <p>
-                          We are dedicated to saving lives and fostering hope through compassionate care,
-        essential resources, and unwavering support. Join us in making a difference,
-        one life at a time.
+                        हम करुणामय देखभाल, आवश्यक संसाधनों और अटूट समर्थन के माध्यम से जीवन बचाने और आशा को बढ़ावा देने के लिए समर्पित हैं। 
+                        हमारे साथ जुड़ें और एक समय में एक जीवन को बदलने में मदद करें।
                         </p>
 
                         {/* <div className="banner-btn">
@@ -62,7 +61,7 @@ const BannerSlider: React.FC = () => {
                     <div className="col-lg-6">
                       <div className="seo-banner-image animate-tb">
                         <Image
-                          src="/images/seo-banner/seo-banner1.png"
+                          src="/images/seo-banner/seo-banner1.jpg"
                           alt="image"
                           width={650}
                           height={502}
@@ -174,26 +173,25 @@ const BannerSlider: React.FC = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-6">
                       <div className="banner-content">
-                        <h1>Creative & Strategic Digital Marketing Agency</h1>
+                        <h1> कार्य में करुणा</h1>
 
                         <p>
-                          We work hand-in-hand with industry-leading brands to
-                          help redefine the possibilities and potential of
-                          digital engagements.
+                        हम जरूरतमंदों को महत्वपूर्ण सहायता, संसाधन और आशा प्रदान करने के लिए अथक परिश्रम करते हैं,
+            जीवन को परिवर्तित करते हुए और समुदायों के लिए एक उज्जवल भविष्य का निर्माण करते हैं।
                         </p>
 
-                        <div className="banner-btn">
+                        {/* <div className="banner-btn">
                           <Link href="/contact" className="default-btn mr-3">
                             Get Started <span></span>
                           </Link>
 
-                          {/* <div
+                          <div
                             className="video-btn"
                             onClick={() => setToggler(!toggler)}
                           >
                             <i className="flaticon-play-button"></i> Play Video
-                          </div> */}
-                        </div>
+                          </div>
+                        </div> */}
                       </div>
                     </div>
 
@@ -312,15 +310,15 @@ const BannerSlider: React.FC = () => {
                   <div className="row align-items-center">
                     <div className="col-lg-6">
                       <div className="banner-content">
-                        <h1>Creative Solutions to Improve your Business!</h1>
+                        <h1>प्रत्येक जीवन के लिए करुणामय समर्थन</h1>
 
                         <p>
-                          We work hand-in-hand with industry-leading brands to
-                          help redefine the possibilities and potential of
-                          digital engagements.
+                        लाइफ सेवियर फाउंडेशन में, हम जरूरतमंद व्यक्तियों और समुदायों को महत्वपूर्ण सहायता, संसाधन और आशा प्रदान करने के लिए प्रतिबद्ध हैं, 
+            प्रत्येक कार्य के साथ जीवन को परिवर्तित कर रहे हैं।
+
                         </p>
 
-                        <div className="banner-btn">
+                        {/* <div className="banner-btn">
                           <Link href="/contact" className="default-btn mr-3">
                             Get Started <span></span>
                           </Link>
@@ -331,14 +329,14 @@ const BannerSlider: React.FC = () => {
                           >
                             <i className="flaticon-play-button"></i> Play Video
                           </div>
-                        </div>
+                        </div> */}
                       </div>
                     </div>
 
                     <div className="col-lg-6">
                       <div className="seo-banner-image animate-tb">
                         <Image
-                          src="/images/seo-banner/seo-banner3.png"
+                          src="/images/seo-banner/seo-banner3.jpg"
                           alt="image"
                           width={650}
                           height={417}
