@@ -169,6 +169,12 @@ export const menus = [
     //   },
     // ],
   // },
+
+  {
+    label: "Our Team",
+    link: "/our team/",},
+
+  
   {
     label: "Blog",
     link: "/blog/details/",

@@ -9,8 +9,8 @@ const WhatWeDo: React.FC = () => {
       <div className="services-area ptb-100 bg-F4F7FC">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">What We Do</span>
-            <h2>Transform Your Business with Our Innovative Solutions</h2>
+            <span className="sub-title">हम क्या करते हैं</span>
+            <h2>हमारे नवाचारी समाधानों के साथ अपने व्यवसाय को बदलें</h2>
           </div>
 
           <div className="row">
@@ -20,15 +20,15 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-digital-marketing"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Software Development</Link>
+                  <Link href="/services/details">जीवन रक्षक</Link>
                 </h3>
                 <p>
-                  Elevate your business with our custom software development solutions, tailored to meet your unique requirements.
+                हमारे समर्पित सेवाओं के साथ जीवन को बदलें, जो आपकी विशिष्ट आवश्यकताओं और चुनौतियों को ध्यान में रखते हुए तैयार की गई हैं।
                 </p>
-                <Link href="/services/details" className="read-more-btn">
+                {/* <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -38,15 +38,15 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-research"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Website Development</Link>
+                  <Link href="/services/details">जीवन उद्धार </Link>
                 </h3>
                 <p>
-                  Build a strong online presence with our expert website development services, crafted to enhance user experience and drive engagement.
+                हमारे विशेषज्ञ सेवाओं के साथ एक मजबूत उपस्थिति बनाएं, जो उपयोगकर्ता अनुभव को बढ़ाने और जुड़ाव को बढ़ाने के लिए तैयार की गई हैं।
                 </p>
-                <Link href="/services/details" className="read-more-btn">
+                {/* <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
@@ -56,19 +56,19 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-analytics"></i>
                 </div>
                 <h3>
-                  <Link href="/services/details">Mobile App Development</Link>
+                  <Link href="/services/details">जीवन बचाने वाले मोबाइल ऐप विकास</Link>
                 </h3>
                 <p>
-                  Stay ahead in the mobile era with our innovative mobile app development solutions, designed to enhance user engagement and drive business growth.
+                हमारे जीवन बचाने वाले मोबाइल ऐप विकास समाधानों के साथ अपने मिशन को सशक्त बनाएं, जो उपयोगकर्ता बोर्ड को बढ़ावा देने और आपके मानवीय प्रयासों को आगे बढ़ाने के लिए बनाए गए हैं।
                 </p>
-                <Link href="/services/details" className="read-more-btn">
+                {/* <Link href="/services/details" className="read-more-btn">
                   Read More
                   <i className="flaticon-right-arrow"></i>
-                </Link>
+                </Link> */}
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6 col-sm-6">
+            {/* <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="single-services-box">
                 <div className="icon bg-cdf1d8">
                   <i className="flaticon-analysis"></i>
@@ -120,7 +120,7 @@ const WhatWeDo: React.FC = () => {
                   <i className="flaticon-right-arrow"></i>
                 </Link>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

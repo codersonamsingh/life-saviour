@@ -9,8 +9,8 @@ const OurTeam: React.FC = () => {
       <div className="team-area ptb-100 pb-70 pt-0">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Our Team</span>
-            <h2>Meet Our Awesome Team Member</h2>
+            <span className="sub-title">हमारी टीम</span>
+            <h2>हमारे शानदार टीम सदस्य से मिलिए</h2>
           </div>
 
           <div className="row justify-content-center">
@@ -38,8 +38,8 @@ const OurTeam: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Vivek Singh</h3>
-                  <span>Web Developer</span>
+                  <h3>Mr. Manish Sah 9939250444</h3>
+                  <span>Founder cum President </span>
                 </div>
               </div>
             </div>
@@ -68,8 +68,40 @@ const OurTeam: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Amit Singh</h3>
-                  <span>Manager</span>
+                  <h3>Mr. Sujeet Singh Vats 9877722969</h3>
+                  <span>Co- founder </span>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-lg-4 col-md-6 col-sm-6">
+              <div className="single-team-box">
+                <div className="image">
+                  <Image
+                    src="/images/team-image/team3.jpg"
+                    alt="team"
+                    width={660}
+                    height={660}
+                  />
+
+                  <div className="social">
+                    <a href="https://www.facebook.com/" target="_blank">
+                      <i className="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="https://twitter.com/" target="_blank">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+                    <a href="https://www.instagram.com/" target="_blank">
+                      <i className="fab fa-instagram"></i>
+                    </a>
+                  </div>
+                </div>
+
+                <div className="content">
+                  <h3>Mr. Rajat Ranjan 9939842656
+                    
+                  </h3>
+                  <span>Treasurer</span>
                 </div>
               </div>
             </div>
@@ -98,10 +130,10 @@ const OurTeam: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Brajesh pandey
+                  <h3>Mr. Aditya Bhagat 86033 86986
                     
                   </h3>
-                  <span>Web Developer</span>
+                  <span>Secretary</span>
                 </div>
               </div>
             </div>

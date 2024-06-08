@@ -34,26 +34,26 @@ export default function Home() {
 
        <WhatWeDo />
 
-      <PartnerSlider />
+      {/* <PartnerSlider /> */}
 
 
-      <OurFeaturesTab />
+      {/* <OurFeaturesTab />
 
-      <FunFacts />
+      <FunFacts /> */}
 
-      <ProjectGallerySlider />
+      {/* <ProjectGallerySlider /> */}
 
       <OurTeam />
 
-      <Solution />
+      {/* <Solution /> */}
 
       <Testimonials />
 
-      <Pricing />
+      {/* <Pricing />
 
-      <SubscribeFluid />
+      <SubscribeFluid /> */}
 
-      <LatestNews />
+      {/* <LatestNews /> */}
 
       <Footer />
     </>
