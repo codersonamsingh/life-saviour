@@ -30,7 +30,7 @@ n
             <div className="col-lg-6 col-md-12">
               <div className="choose-image">
                 <Image
-                  src="/images/machine-learning/about3.png"
+                  src="/images/machine-learning/about3.jpg"
                   alt="image"
                   width={677}
                   height={520}
