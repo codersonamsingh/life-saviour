@@ -99,9 +99,9 @@ export const menus = [
     //   },
     // ],
   },
-  {
-    label: "Services",
-    link:  "/services/",
+  // {
+  //   label: "Services",
+  //   link:  "/services/",
   //   submenu: [
   //     {
   //       label: "Services Style One",
@@ -146,10 +146,10 @@ export const menus = [
   //       link: "/projects/details/",
   //     },
   //   ],
-  },
-  {
-    label: "Shop",
-    link: "/shop/",
+  // },
+  // {
+  //   label: "Shop",
+  //   link: "/shop/",
     // submenu: [
     //   {
     //     label: "Shop",
@@ -168,7 +168,7 @@ export const menus = [
     //     link: "/shop/checkout/",
     //   },
     // ],
-  },
+  // },
   {
     label: "Blog",
     link: "/blog/details/",

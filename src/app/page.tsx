@@ -28,7 +28,7 @@ export default function Home() {
        <OurServices />
 
         
-      <CaseStudies />
+      {/* <CaseStudies /> */}
 
        <WhyChooseUs />
 

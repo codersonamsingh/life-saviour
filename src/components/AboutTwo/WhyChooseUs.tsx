@@ -11,17 +11,17 @@ const WhyChooseUs: React.FC = () => {
             <div className="col-lg-6">
               <div className="choose-content">
                 <div className="section-title text-left">
-                  <span className="sub-title">Why Choose Us</span>
-                  <h2>Driving Your Vision Forward with Cutting-Edge Solutions</h2>
-
+                  <span className="sub-title">हमारा चयन क्यों?</span>
+                  <h2>नवाचारी समाधानों के साथ अपने दृष्टिकोण को मजबूत बनाना</h2>
+n
                   <p>
-                    Softechinfra, a leading provider of IT services, leverages extensive expertise and experience to actualize your concepts into tangible solutions. Since our establishment in 2014 in Kolkata, India, we have been dedicated to delivering outstanding software engineering solutions to clients across India and globally. Our steadfast commitment to quality and client satisfaction has established us as a reliable partner for businesses seeking reliable and seamless software solutions.
+                  सेवियर फाउंडेशन एक गैर-सरकारी संगठन (एनजीओ) है जो किसी भी सरकार के बिना स्वतंत्र रूप से कार्य करता है। सेवियर फाउंडेशन, कभी-कभी नागरिक समाज के नाम से जाने जाते हैं, समुदाय, राष्ट्रीय और अंतरराष्ट्रीय स्तरों पर संगठित होते हैं ताकि मानवीय कारणों या पर्यावरण जैसे सामाजिक या राजनीतिक उद्देश्यों की सेवा कर सकें।
                   </p>
                 </div>
 
                 <div className="choose-btn">
                   <Link href="/about" className="default-btn">
-                    Explore More <span></span>
+                  और जानें <span></span>
                   </Link>
                 </div>
               </div>

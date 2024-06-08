@@ -85,13 +85,13 @@ const OurServices: React.FC = () => {
 
             <div className="overview-content">
               <div className="content right-content">
-                <span className="sub-title">Design & Development</span>
-                <h2>Solving Problems, Building Brands</h2>
+                <span className="sub-title">डिजाइन और विकास</span>
+                <h2>समस्याओं का समाधान, ब्रांड निर्माण</h2>
                 <p>
-                  Our design and development services are geared towards fostering brand growth and solving complex challenges.
+                हमारी डिजाइन और विकास सेवाएं ब्रांड वृद्धि को बढ़ावा देने और जटिल चुनौतियों का समाधान करने के लिए विशेष रूप से तैयार की गई हैं।
                 </p>
 
-                <ul className="features-list">
+                {/* <ul className="features-list">
                   <li>
                     <span>
                       <i className="fas fa-check"></i> Website Development
@@ -117,12 +117,12 @@ const OurServices: React.FC = () => {
                       <i className="fas fa-check"></i> Cloud Solutions (AWS, Azure)
                     </span>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
           </div>
-
-          {/* Social Media Marketing */}
+{/* 
+          Social Media Marketing
           <div className="overview-box">
             <div className="overview-content">
               <div className="content">
@@ -166,9 +166,9 @@ const OurServices: React.FC = () => {
                 />
               </div>
             </div>
-          </div>
+          </div> */}
 
-          {/* SEO Consultancy */}
+          {/* SEO Consultancy
           <div className="overview-box">
             <div className="overview-image">
               <div className="image">
@@ -222,7 +222,7 @@ const OurServices: React.FC = () => {
                 </ul>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
