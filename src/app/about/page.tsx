@@ -24,13 +24,13 @@ export default function Page() {
       
 
       <PageHeader
-        pageTitle="About Us "
-        breadcrumbTextOne="Home"
+        pageTitle="हमारे बारे में"
+        breadcrumbTextOne="मुख्य पृष्ठ"
         breadcrumbUrl="/"
-        breadcrumbTextTwo="About Us "
+        breadcrumbTextTwo="हमारे बारे में"
       />
        
-       <Banner />
+       {/* <Banner /> */}
 
       <AboutArea />
 
