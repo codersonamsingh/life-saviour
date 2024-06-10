@@ -102,9 +102,8 @@ const Testimonials: React.FC = () => {
           <SwiperSlide>
             <div className="single-feedback-item">
               <p>
-                “We believe brand interaction is key in communication. Real
-                innovations and a positive customer experience are the heart of
-                successful communication. No fake products and services.”
+                “लाइफ सेवियर फाउंडेशन में, हम मानते हैं कि हमारे ब्रांड के साथ सार्थक बातचीत प्रभावी संचार के लिए महत्वपूर्ण है। वास्तविक नवाचार और सकारात्मक ग्राहक अनुभव
+                 हमारी सफलता के केंद्र में हैं। हम केवल प्रामाणिक उत्पाद और सेवाएं प्रदान करने के लिए प्रतिबद्ध हैं, जो गुणवत्ता और विश्वास के उच्चतम मानकों को सुनिश्चित करते हैं।”
               </p>
               <div className="client-info">
                 <Image
@@ -122,9 +121,8 @@ const Testimonials: React.FC = () => {
           <SwiperSlide>
             <div className="single-feedback-item">
               <p>
-                “We believe brand interaction is key in communication. Real
-                innovations and a positive customer experience are the heart of
-                successful communication. No fake products and services.”
+                “लाइफ सेवियर फाउंडेशन ने मुझे गुणवत्ता और विश्वास की नई परिभाषा दी है। उनके नवाचार और 
+                ग्राहक अनुभव शानदार हैं। मैं पूरी तरह से संतुष्ट हूं।.”
               </p>
               <div className="client-info">
                 <Image

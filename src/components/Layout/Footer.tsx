@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
                   <li>
                     <i className="flaticon-email"></i>
                     <span>Do You Have a Question?</span>
-                    <a href="mailto:vivek@softechinfra.com">vivek@softechinfra.com</a>
+                    <a href="mailto:vivek@softechinfra.com">lifesaviours4you@Gmail.com</a>
                   </li>
                   <li>
                     <i className="flaticon-social-media"></i>
@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
                   <li>
                     <Link href="/features">Features</Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/contact">Support</Link>
                   </li>
                   <li>
@@ -94,16 +94,16 @@ const Footer: React.FC = () => {
                   </li>
                   <li>
                     <Link href="/services">Services</Link>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <Link href="/projects">Projects</Link>
                   </li>
                   <li>
                     <Link href="/contact">Support</Link>
-                  </li>
-                  <li>
+                  </li> */}
+                  {/* <li>
                     <Link href="/shop">Shop</Link>
-                  </li>
+                  </li> */}
                   <li>
                     <Link href="/team">Team</Link>
                   </li>

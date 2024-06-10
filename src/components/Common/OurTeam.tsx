@@ -78,7 +78,7 @@ const OurTeam: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="/images/team-image/team3.jpg"
+                    src="/images/team-image/team5.jpg"
                     alt="team"
                     width={660}
                     height={660}
@@ -110,7 +110,7 @@ const OurTeam: React.FC = () => {
               <div className="single-team-box">
                 <div className="image">
                   <Image
-                    src="https://media.licdn.com/dms/image/C4D03AQGqtWs46fP_rA/profile-displayphoto-shrink_800_800/0/1659613126566?e=2147483647&v=beta&t=mUqugn3m2PgBAU4O9CuczZ14dkmNdBeXmoZjfPWdLb4"
+                    src="/images/team-image/team7.jpg"
                     alt="team"
                     width={660}
                     height={660}
