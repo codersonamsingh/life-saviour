@@ -4,6 +4,7 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination } from "swiper/modules";
 import Image from "next/image";
+import Link from "next/link";
 
 const Testimonials: React.FC = () => {
   return (
@@ -139,6 +140,7 @@ const Testimonials: React.FC = () => {
             </div>
           </SwiperSlide>
         </Swiper>
+        
       </div>
     </>
   );

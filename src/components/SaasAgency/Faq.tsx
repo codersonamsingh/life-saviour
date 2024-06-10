@@ -17,9 +17,9 @@ const Faq: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">FAQ</span>
-            <h2>Frequently Asked Questions</h2>
+            <h2>अक्सर पूछे जाने वाले प्रश्न</h2>
             <p>
-              Welcome to Softechinfra's FAQ section, where we address common queries about our services and solutions.
+            लाइफ सेवियर फाउंडेशन किस प्रकार के कार्यक्रम प्रदान करता है?
             </p>
           </div>
 
@@ -27,7 +27,7 @@ const Faq: React.FC = () => {
             <div className="col-lg-6">
               <div className="faq-img pr-3">
                 <Image
-                  src="/images/faq.png"
+                  src="/images/faq.jpeg"
                   alt="Frequently Asked Questions"
                   width={600}
                   height={450}
@@ -41,13 +41,14 @@ const Faq: React.FC = () => {
                   <AccordionItem uuid="a">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        What types of services does Softechinfra offer?
+                      लाइफ सेवियर फाउंडेशन चिकित्सा सहायता, शिक्षा समर्थन, आपदा राहत, और सामुदायिक विकास की पहलों सहित कई कार्यक्रम प्रदान करता है ताकि 
+                      जरूरतमंदों की मदद की जा सके और उनका उत्थान हो सके।
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        At Softechinfra, we specialize in various digital solutions, including software development, website development, mobile app development, CRM software solutions, and more.
+                      क्या आप लाइफ सेवियर फाउंडेशन की पिछली पहलों के उदाहरण दे सकते हैं?
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -55,13 +56,13 @@ const Faq: React.FC = () => {
                   <AccordionItem uuid="b">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Can you provide examples of Softechinfra's past projects?
+                      निश्चित रूप से! लाइफ सेवियर फाउंडेशन ने स्वास्थ्य संकटों के दौरान चिकित्सा आपूर्ति प्रदान करने, वंचित छात्रों के लिए शैक्षिक छात्रवृत्तियाँ स्थापित करने, और प्राकृतिक आपदाओं के दौरान आवश्यक सहायता पहुँचाने जैसी कई पहलें लागू की हैं।
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Certainly! Softechinfra has successfully delivered projects for esteemed clients such as Reliance General Insurance and Oasis Manors, where we developed tailored CRM software solutions to meet their unique requirements.
+                      लाइफ सेवियर फाउंडेशन सामुदायिक विकास का समर्थन कैसे करता है?
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -75,7 +76,7 @@ const Faq: React.FC = () => {
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Our digital marketing strategies at Softechinfra encompass a comprehensive approach, incorporating SEO consultancy, social media marketing, and strategic planning to elevate your online presence and foster business growth.
+                      हमारे सामुदायिक विकास प्रयासों में बुनियादी ढाँचा निर्माण, स्थायी प्रथाओं को बढ़ावा देना, और समुदायों को आत्मनिर्भर बनने और जीवन की गुणवत्ता में सुधार करने में मदद करने के लिए व्यावसायिक प्रशिक्षण प्रदान करना शामिल है।
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -83,13 +84,13 @@ const Faq: React.FC = () => {
                   <AccordionItem uuid="d">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        In which technologies does Softechinfra specialize?
+                      मैं लाइफ सेवियर फाउंडेशन के साथ कैसे शामिल हो सकता/सकती हूँ?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Softechinfra excels in various cutting-edge technologies, including React, Node.js, React Native, Next.js, MongoDB, AWS, and Azure, ensuring the delivery of robust and scalable solutions for our clients.
+                      आप स्वयंसेवा करके, दान देकर, या हमारे साथ साझेदारी करके शामिल हो सकते हैं। वर्तमान अवसरों के बारे में जानने और कैसे आप फर्क कर सकते हैं, इसके लिए हमारी वेबसाइट पर जाएँ।
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -97,13 +98,13 @@ const Faq: React.FC = () => {
                   <AccordionItem uuid="e">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        How can AI benefit my business operations with Softechinfra?
+                      लाइफ सेवियर फाउंडेशन पारदर्शिता और उत्तरदायित्व कैसे सुनिश्चित करता है?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Through our AI services at Softechinfra, we provide advanced capabilities such as AI-powered chatbots, data scraping with AI, and intelligent insights, enabling you to streamline processes, gain valuable insights, and enhance decision-making efficiency.
+                      हम अपनी गतिविधियों, वित्तीय विवरणों, और प्रभाव आकलनों पर नियमित रूप से विस्तृत रिपोर्ट प्रकाशित करके पारदर्शिता और उत्तरदायित्व को प्राथमिकता देते हैं, ताकि हमारे समर्थक और हितधारक हमारे कार्यों और उनके परिणामों के बारे में सूचित रहें।
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>

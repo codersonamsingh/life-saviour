@@ -46,7 +46,7 @@ export default function Page() {
 
       <Faq />
 
-      <LatestWorks />
+      {/* <LatestWorks /> */}
 
       <Testimonials />
 

@@ -25,15 +25,16 @@ const Solution: React.FC = () => {
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
               <div className="solution-content">
-                <span className="sub-title">Watch Our Video</span>
-                <h2>Get Better Solution For Your Business</h2>
+                <span className="sub-title">हमारा प्रभाव जानें</span>
+                <h2>लाइफसेवियर फाउंडेशन के साथ जीवन में बदलाव</h2>
                 <p>
-                  No fake products and services. The customer is king, their
-                  lives and needs are the inspiration.
+                हम सच्ची देखभाल और समर्थन में विश्वास करते हैं। हमारा मिशन
+              आवश्यक सेवाएँ और उत्पाद प्रदान करना है, जिसमें हम लोगों को
+              हर चीज़ के केंद्र में रखते हैं।
                 </p>
 
-                <Link href="/contact" className="default-btn">
-                  Contact Us <span></span>
+                <Link href="/donate us" className="default-btn">
+                  Donate Us <span></span>
                 </Link>
               </div>
             </div>
