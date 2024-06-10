@@ -10,8 +10,8 @@ const OurFeaturesTab: React.FC = () => {
       <div className="features-area ptb-100 pt-0">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Our Features</span>
-            <h2>We always try to understand customers expectation</h2>
+            <span className="sub-title">हमारी विशेषताएँ</span>
+            <h2>हम हमेशा ग्राहकों की उम्मीदों को समझने का प्रयास करते हैं</h2>
           </div>
 
           <Tabs className="features-list-tab">
@@ -20,42 +20,42 @@ const OurFeaturesTab: React.FC = () => {
               <Tab>
                 <div className="bg-fa7070">
                   <i className="flaticon-achievement"></i>
-                  <span>User Experience</span>
+                  <span>आपातकालीन सहायता</span>
                 </div>
               </Tab>
 
               <Tab>
                 <div className="bg-00aeff">
                   <i className="flaticon-architecture"></i>
-                  <span>Product Design</span>
+                  <span>समुदाय समर्थन</span>
                 </div>
               </Tab>
 
               <Tab>
                 <div className="bg-c679e3">
                   <i className="flaticon-digital-marketing"></i>
-                  <span>Digital Marketing</span>
+                  <span>सार्वजनिक स्वास्थ्य जागरूकता</span>
                 </div>
               </Tab>
 
               <Tab>
                 <div className="bg-eb6b3d">
                   <i className="flaticon-analytics"></i>
-                  <span>Branding</span>
+                  <span>धनराशि अभियान</span>
                 </div>
               </Tab>
 
               <Tab>
                 <div onClick={(e) => e.preventDefault()}>
                   <i className="flaticon-data"></i>
-                  <span>Development</span>
+                  <span>कार्यक्रम विकास</span>
                 </div>
               </Tab>
 
               <Tab>
                 <div className="bg-f78acb">
                   <i className="flaticon-research"></i>
-                  <span>Marketing</span>
+                  <span>स्वयंसेवक भर्ती</span>
                 </div>
               </Tab>
             </TabList>
@@ -65,47 +65,46 @@ const OurFeaturesTab: React.FC = () => {
               <div className="features-overview">
                 <div className="overview-content">
                   <div className="content">
-                    <span className="sub-title">Define Your Choices</span>
-                    <h2>User Experience</h2>
-                    <p>
-                      We believe brand interaction is key in communication. Real
-                      innovations and a positive customer experience are the
-                      heart of successful communication. No fake products and
-                      services. The customer is king, their lives and needs are
-                      the inspiration.
-                    </p>
+
+                  <span className="sub-title">हमारा मिशन: जीवन को शक्ति देना</span>
+
+                   <h2>उपयोगकर्ता-केंद्रित दृष्टिकोण</h2>
+                   <p>
+                   लाइफ सेवियर फाउंडेशन, हम मानते हैं कि ब्रांड बातचीत में महत्वपूर्ण है। हमारे मूल उत्पादों और सकारात्मक उपभोक्ता अनुभव सफल संचार का ह्रदय है। हम नकली उत्पादों और
+                    सेवाओं को नकारते हैं। उपभोक्ता हमेशा राजा होता है, उनका जीवन और आवश्यकताओं से हमें प्रेरणा मिलती है।
+                  </p>
 
                     <ul className="features-list">
                       <li>
                         <span>
-                          <i className="flaticon-tick"></i> Open Source
+                          <i className="flaticon-tick"></i> ओपन सोर्स पहल के माध्यम से जीवन को शक्तिशाली बनाना
                         </span>
                       </li>
                       <li>
                         <span>
-                          <i className="flaticon-tick"></i> Optimal Choice
+                          <i className="flaticon-tick"></i> मानवता के लिए श्रेष्ठ विकल्पों का चयन करना
                         </span>
                       </li>
                       <li>
                         <span>
-                          <i className="flaticon-tick"></i> High Security
+                          <i className="flaticon-tick"></i> सभी के लिए उच्च सुरक्षा सुनिश्चित करना
                         </span>
                       </li>
                       <li>
                         <span>
-                          <i className="flaticon-tick"></i> Great Advices
+                          <i className="flaticon-tick"></i> जीवन को बदलने वाली सलाह और समर्थन प्रदान करना
                         </span>
                       </li>
                       <li>
                         <span>
-                          <i className="flaticon-tick"></i> Creative Layout
+                          <i className="flaticon-tick"></i> जीवन बचाने वाली प्रतिक्रिया
                         </span>
                       </li>
-                      <li>
+                      {/* <li>
                         <span>
                           <i className="flaticon-tick"></i> Super Responsive
                         </span>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>
@@ -113,7 +112,7 @@ const OurFeaturesTab: React.FC = () => {
                 <div className="overview-image">
                   <div className="image">
                     <Image
-                      src="/images/features-image/feature-image1.png"
+                      src="/images/features-image/feature-image1.gif"
                       alt="image"
                       width={830}
                       height={750}

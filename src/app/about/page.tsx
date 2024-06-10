@@ -38,7 +38,7 @@ export default function Page() {
 
       <FunFactsTwo />
 
-      <ServicesOverview />
+      {/* <ServicesOverview /> */}
 
       <WhyChooseUs />
 

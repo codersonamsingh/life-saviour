@@ -15,7 +15,7 @@ const FunFactsTwo: React.FC = () => {
                   <span className="odometer">524</span>
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Completed Projects</p>
+                <p>पूर्ण परियोजनाएं</p>
               </div>
             </div>
 
@@ -26,7 +26,7 @@ const FunFactsTwo: React.FC = () => {
                   <span className="odometer">560</span>
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Happy Clients</p>
+                <p>संतुष्ट लाभार्थी</p>
               </div>
             </div>
 
@@ -37,7 +37,7 @@ const FunFactsTwo: React.FC = () => {
                   <span className="odometer">128</span>
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Expert Members</p>
+                <p>समर्पित स्वयंसेवक</p>
               </div>
             </div>
 
@@ -48,7 +48,7 @@ const FunFactsTwo: React.FC = () => {
                   <span className="odometer">29</span>
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Winning Awards</p>
+                <p>मान्यता पुरस्कार</p>
               </div>
             </div>
           </div>
