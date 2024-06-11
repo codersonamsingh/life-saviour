@@ -56,7 +56,7 @@ export default function Page() {
 
       <SubscribeStyleThree />
 
-      <PartnerWithTitle />
+      {/* <PartnerWithTitle /> */}
       
       <Footer />
     </>

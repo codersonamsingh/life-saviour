@@ -22,8 +22,8 @@ const SubscribeStyleThree: React.FC = () => {
 
             <div className="col-lg-6">
               <div className="subscribe-content">
-                <span className="sub-title">Get Started Instantly!</span>
-                <h2>Get only new update from this newsletter</h2>
+                <span className="sub-title">हमारे साथ बदलाव लाने में जुड़ें!</span>
+                <h2>हमारी नवीनतम पहलों के साथ अद्यतित रहें</h2>
 
                 <form className="newsletter-form">
                   <input
@@ -34,7 +34,7 @@ const SubscribeStyleThree: React.FC = () => {
                     required
                   />
 
-                  <button type="submit">Subscribe</button>
+                  <button type="submit">दान करें</button>
                 </form>
               </div>
             </div>
