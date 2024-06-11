@@ -11,7 +11,8 @@ export const menus = [
   },
   {
     label: "हमारी टीम",
-    link: "/our team/",},
+    link:  "/services/",
+  },
 
   
   {
@@ -23,4 +24,5 @@ export const menus = [
     label: "संपर्क करें",
     link: "/contact/",
   },
+  
 ];

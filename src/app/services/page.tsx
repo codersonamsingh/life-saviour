@@ -7,6 +7,7 @@ import WhatWeDo from "../../components/Services/WhatWeDo";
 import LetsGetToWork from "../../components/Common/LetsGetToWork";
 import PricingStyleTwo from "../../components/Pricing/PricingStyleTwo";
 import Footer from "../../components/Layout/Footer";
+import OurTeamTwo from "../../components/Common/OurTeamTwo";
 
 export default function Page() {
   return (
@@ -14,13 +15,16 @@ export default function Page() {
       <Navbar />
 
       <PageHeader
-        pageTitle="Services Style One"
-        breadcrumbTextOne="Home"
+        pageTitle="हमारी टीम"
+        breadcrumbTextOne="मुख्य पृष्ठ"
         breadcrumbUrl="/"
-        breadcrumbTextTwo="Services Style One"
+        breadcrumbTextTwo="हमारी टीम"
       />
 
-      <Banner />
+       <OurTeamTwo />
+
+
+      {/* <Banner />
 
       <WhyChooseUs />
 
@@ -28,7 +32,7 @@ export default function Page() {
 
       <LetsGetToWork />
 
-      <PricingStyleTwo />
+      <PricingStyleTwo /> */}
 
       <Footer />
     </>

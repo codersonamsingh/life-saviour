@@ -19,12 +19,10 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
         <div className="sidebar-modal-inner">
           <div className="sidebar-about-area">
             <div className="title">
-              <h2>About Us</h2>
+              <h2>हमारे बारे में</h2>
               <p>
-                We believe brand interaction is key in communication. Real
-                innovations and a positive customer experience are the heart of
-                successful communication. No fake products and services. The
-                customer is king, their lives and needs are the inspiration.
+              लाइफ सेवियर फाउंडेशन में, हम इस मान्यता को बनाए रखते हैं कि हमारे ब्रांड के साथ वास्तविक गहरा संवाद करना संचार के लिए मौलिक है। हमारे मूल्यों का केंद्र वास्तविक नवाचार और हमारे ग्राहकों के लिए सकारात्मक अनुभव को बढ़ावा देना है। हम वादा करते हैं कि केवल वास्तविक उत्पादों और सेवाओं की प्रदान की जाएगी, और उन लोगों की जरूरतों और कल्याण को प्राथमिकता देकर सेवाओं को समर्पित किया जाएगा जिनकी हम सेवा करते हैं। लाइफ सेवियर फाउंडेशन में, 
+              हमारी प्रेरणा हमारे लाभार्थियों के जीवन और आवश्यकताओं से आती है, जैसे ही हम उनकी यात्रा में एक अर्थपूर्ण प्रभाव डालने का प्रयास करते हैं।
               </p>
             </div>
           </div>
@@ -53,7 +51,7 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
                 <h2>
                   <span className="main-color">+919846173905</span>
                   <span className="or">OR</span>
-                  <span>vivek@softechinfra.com</span>
+                  <span>lifesaviours4you@Gmail.com</span>
                 </h2>
 
                 <ul className="social">
