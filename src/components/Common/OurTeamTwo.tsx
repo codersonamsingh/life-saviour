@@ -11,8 +11,8 @@ const OurTeamTwo: React.FC = () => {
       <div className="team-area pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Our Team</span>
-            <h2>Our Expert Team</h2>
+            <span className="sub-title">हमारी टीम</span>
+            <h2>हमारी विशेषज्ञ टीम</h2>
           </div>
 
           <Swiper
@@ -64,8 +64,8 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Priyanka choudhary</h3>
-                  <span>CEO & Founder</span>
+                  <h3>Mr. Manish Sah</h3>
+                  <span>Founder cum President</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -97,8 +97,8 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Rajput Vivek</h3>
-                  <span>Backend Team Leader</span>
+                  <h3>Mr. Sujeet Singh Vats</h3>
+                  <span>Co- founder </span>
                 </div>
               </div>
             </SwiperSlide>
@@ -130,8 +130,8 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Sonam Singh</h3>
-                  <span>Web Developer</span>
+                  <h3>Mr. Rajat Ranjan</h3>
+                  <span>Treasurer </span>
                 </div>
               </div>
             </SwiperSlide>
@@ -163,8 +163,8 @@ const OurTeamTwo: React.FC = () => {
                 </div>
 
                 <div className="content">
-                  <h3>Mark Smith</h3>
-                  <span>Web Developer</span>
+                  <h3>Mr. Aditya Bhagat</h3>
+                  <span>Secretary</span>
                 </div>
               </div>
             </SwiperSlide>
@@ -172,12 +172,12 @@ const OurTeamTwo: React.FC = () => {
             <SwiperSlide>
               <div className="single-team-box">
                 <div className="image">
-                  <Image
+                  {/* <Image
                     src="/images/team-image/team14.jpg"
                     alt="team"
                     width={510}
                     height={600}
-                  />
+                  /> */}
 
                   <div className="social">
                     <a href="https://www.linkedin.com/" target="_blank">
@@ -195,10 +195,10 @@ const OurTeamTwo: React.FC = () => {
                   </div>
                 </div>
 
-                <div className="content">
+                {/* <div className="content">
                   <h3>Williams Smith</h3>
                   <span>Web Developer</span>
-                </div>
+                </div> */}
               </div>
             </SwiperSlide>
           </Swiper>

@@ -68,11 +68,11 @@ const Faq: React.FC = () => {
                   </AccordionItem>
 
                   <AccordionItem uuid="c">
-                    <AccordionItemHeading>
-                      <AccordionItemButton>
-                        How does Softechinfra approach digital marketing and SEO?
-                      </AccordionItemButton>
-                    </AccordionItemHeading>
+                    {/* <AccordionItemHeading>
+                      <AccordionItemButton> */}
+                        {/* How does Softechinfra approach digital marketing and SEO? */}
+                      {/* </AccordionItemButton>
+                    </AccordionItemHeading> */}
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
