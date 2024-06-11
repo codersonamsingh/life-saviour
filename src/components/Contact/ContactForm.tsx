@@ -42,10 +42,10 @@ const ContactForm: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Contact Us</span>
-            <h2>Get In Touch</h2>
+            <h2>लाइफ सेवियर फाउंडेशन में आपका स्वागत है</h2>
             <p>
-              Feel free to reach out for any inquiries. We are here to assist
-              you.
+            लाइफ सेवियर फाउंडेशन में, हम जिन लोगों की मदद करने के लिए समर्पित हैं जो जरूरतमंद हैं। 
+            चाहे वह आश्रय, खाना या चिकित्सा सहायता हो, हमारा मिशन उन लोगों की मदद करना है जो मुश्किल समयों का सामना कर रहे हैं।
             </p>
           </div>
 

@@ -11,10 +11,10 @@ export default function Page() {
       <Navbar />
 
       <PageHeader
-        pageTitle="Contact"
-        breadcrumbTextOne="Home"
+        pageTitle="संपर्क करें"
+        breadcrumbTextOne="मुख्य पृष्ठ"
         breadcrumbUrl="/"
-        breadcrumbTextTwo="Contact"
+        breadcrumbTextTwo="संपर्क करें"
       />
 
       <ContactForm />

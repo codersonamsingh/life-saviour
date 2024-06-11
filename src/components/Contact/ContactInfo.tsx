@@ -14,8 +14,8 @@ const ContactInfo: React.FC = () => {
                   <i className="flaticon-email"></i>
                 </div>
                 <h3>Email Us</h3>
-                <p>info@softechinfra.com</p>
-                <p>support@softechinfra.com</p>
+                <p>lifesaviours4you.com</p>
+                {/* <p>support@softechinfra.com</p> */}
               </div>
             </div>
 
