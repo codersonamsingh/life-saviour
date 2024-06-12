@@ -7,14 +7,14 @@ import BlogCard from "../../components/Blog/BlogCard";
 export default function Page() {
   return (
     <>
-      <Navbar />
+      
 
-      <PageHeader
-        pageTitle="Blog Grid"
-        breadcrumbTextOne="Home"
+      {/* <PageHeader
+        pageTitle="ब्लॉग ग्रिड"
+        breadcrumbTextOne="मुख्य पृष्ठ"
         breadcrumbUrl="/"
-        breadcrumbTextTwo="Blog Grid"
-      />
+        breadcrumbTextTwo="ब्लॉग ग्रिड"
+      /> */}
 
       <BlogCard />
 

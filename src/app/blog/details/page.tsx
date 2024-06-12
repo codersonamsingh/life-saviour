@@ -12,13 +12,14 @@ export default function Page() {
       <Navbar />
 
       <PageHeader
-        pageTitle="Blog Details"
-        breadcrumbTextOne="Home"
+        pageTitle="ब्लॉग ग्रिड"
+        breadcrumbTextOne="मुख्य पृष्ठ"
         breadcrumbUrl="/"
-        breadcrumbTextTwo="Blog Details"
+        breadcrumbTextTwo="ब्लॉग ग्रिड"
       />
 
-      <Banner />
+
+      {/* <Banner /> */}
 
       <BlogCard />
 
