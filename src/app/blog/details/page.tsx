@@ -23,7 +23,7 @@ export default function Page() {
 
       <BlogCard />
 
-      <BlogDetailsContent />
+      {/* <BlogDetailsContent /> */}
 
       <Footer />
     </>
