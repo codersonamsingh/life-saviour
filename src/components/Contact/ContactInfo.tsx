@@ -13,7 +13,7 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-email"></i>
                 </div>
-                <h3>Email Us</h3>
+                <h3>हमें ईमेल करें</h3>
                 <p>lifesaviours4you.com</p>
                 {/* <p>support@softechinfra.com</p> */}
               </div>
@@ -24,9 +24,9 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                 //  <i className="flaticon-phone-call"></i>
                 </div>
-                <h3>Our Location</h3>
-                <p>ARARIA, BIHAR 854321
-                   INDIA Country</p>
+                <h3>हमारा स्थान</h3>
+                <p>अररिया, बिहार 854321
+                भारत</p>
               </div>
             </div>
 
@@ -35,7 +35,7 @@ const ContactInfo: React.FC = () => {
                 <div className="icon">
                   <i className="flaticon-marker"></i>
                 </div>
-                <h3>Call Us</h3>
+                <h3>हमें कॉल करें</h3>
                 <p>+91 9846173905</p>
                
               </div>
