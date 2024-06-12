@@ -73,7 +73,7 @@ const ContactForm: React.FC = () => {
                           value={formData.name}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Your Name"
+                          placeholder="आपका नाम"
                           required
                         />
                       </div>
@@ -87,7 +87,7 @@ const ContactForm: React.FC = () => {
                           value={formData.email}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Your Email"
+                          placeholder="आपका ईमेल"
                           required
                         />
                       </div>
@@ -101,7 +101,7 @@ const ContactForm: React.FC = () => {
                           value={formData.phone}
                           onChange={handleChange}
                           className="form-control"
-                          placeholder="Your Phone"
+                          placeholder="आपका फोन"
                           required
                         />
                       </div>
@@ -130,7 +130,7 @@ const ContactForm: React.FC = () => {
                           cols={30}
                           rows={6}
                           className="form-control"
-                          placeholder="Your Message"
+                          placeholder="आपका संदेश"
                           required
                         ></textarea>
                       </div>
@@ -138,7 +138,7 @@ const ContactForm: React.FC = () => {
 
                     <div className="col-lg-12 col-md-12 text-center">
                       <button type="submit" className="default-btn">
-                        Send Message <span></span>
+                      संदेश भेजें<span></span>
                       </button>
                     </div>
                   </div>
